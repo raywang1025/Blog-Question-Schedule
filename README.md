@@ -2,6 +2,6 @@
 
 [Issues](https://github.com/raywang1025/Blog/issues)
 
-# Asking
+# Question
 
 [Stockoverflow](https://stackoverflow.com/users/14970262/ray-wang)
